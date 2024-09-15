@@ -2,7 +2,7 @@
 
  📫 How to reach me:  
 
-[![](https://img.shields.io/badge/-Arif%20Burak%20Demiray-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/h%C3%BCseyin-karakaya-248790215/) 
+
 [![](https://img.shields.io/badge/-Send%20Email-informational?style=flat&logo=microsoft-outlook&logoColor=white&color=0078D4)](mailto:huseyinkkarakaya@gmail.com) 
 
 # 💻 Tech Stack:
